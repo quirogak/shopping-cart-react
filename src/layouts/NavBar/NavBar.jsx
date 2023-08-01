@@ -1,4 +1,4 @@
-import NavItem from "./navitem";
+import NavItem from "../../components/NavItem";
 
 const shopSections = {
     Bikes: ["Mountain", "Gravel", "Urban", "Electric"],
